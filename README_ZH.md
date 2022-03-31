@@ -61,7 +61,7 @@ Maixpy 的目的是让 AIOT 编程更简单， 基于 [Micropython](http://www.m
 > * 麦克风阵列支持（8个麦克风）
 > * 硬件 AES SHA256 支持
 > * FPIOA (每个外设可以映射到任意引脚)
-> * 外设: I2C, SPI, I2S, WDT, TIMER, RTC, UART, GPIO 等等
+> * 外设: I2C, SPI, I2S, WDT, TIMER, RTC, UART, GPIO 等等。。。
 
 
 <img src="assets/image/maix_bit.png" height=500 alt="maix bit"/>
